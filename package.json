@@ -15,7 +15,7 @@
     "chalk": "^1",
     "commander": "^2",
     "node.extend": "^1",
-    "octonode": "~0.7"
+    "octonode": "~0.9.3"
   },
   "devDependencies": {
     "eslint": "^2",
